@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "task1": "hghhhhhhhh",
+      "task2": "gggg",
+      "id": 2
+    },
+    {
+      "task1": "gfgdhfggg",
+      "task2": "fdkljkll",
+      "id": 3
+    },
+    {
+      "task1": "nkdjgljlj",
+      "task2": "phuyuijgig",
+      "id": 4
+    },
+    {
+      "task1": "abhijeet",
+      "task2": "mandal",
+      "id": 5
+    },
+    {
+      "task1": "ghhh",
+      "task2": "gghh",
+      "id": 6
+    },
+    {
+      "task1": "abhikum",
+      "task2": "jaykisan",
+      "id": 7
+    },
+    {
+      "task1": "jio operator",
+      "task2": "monthly plan",
+      "task3": true,
+      "task4": "Done",
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

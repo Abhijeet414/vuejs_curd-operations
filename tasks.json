@@ -1,0 +1,30 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "task1": "airtel",
+      "task2": "recharge",
+      "task3": true,
+      "task4": "Done",
+      "id": 2
+    },
+    {
+      "task1": "trainning",
+      "task2": "developer",
+      "task3": true,
+      "task4": "Development",
+      "id": 3
+    },
+    {
+      "task1": "queality assistannt",
+      "task2": "checking the quality",
+      "task3": true,
+      "task4": "QA",
+      "id": 4
+    }
+  ]
+}
